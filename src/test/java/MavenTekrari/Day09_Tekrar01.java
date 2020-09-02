@@ -73,6 +73,6 @@ public class Day09_Tekrar01 {
 
     @AfterClass
     public static void tearDown(){
-        //driver.quit();
+        driver.quit();
     }
 }
